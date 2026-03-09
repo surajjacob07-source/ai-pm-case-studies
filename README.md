@@ -18,6 +18,7 @@ A portfolio repo of product management case studies focused on AI features, work
 ## Starter case studies
 - AI Meeting Copilot for SMB teams
 - AI Inbox Triage for founders and operators
+- AI Job Search Copilot for AI PM candidates
 
 ## Intended audience
 Recruiters, founders, hiring managers, and collaborators evaluating AI product management thinking.
